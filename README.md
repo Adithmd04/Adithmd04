@@ -74,9 +74,6 @@ Tech Used: React, Next.js, TypeScript, Tailwind, REST APIs, GraphQl APIs
 </p>
 
 ---
-
-## 🎯 Fun Animations
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Modern+Web+Apps;Learning+Full-Stack+Development;Creating+Impactful+UI&center=true&width=500&height=50">
 </p>
