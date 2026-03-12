@@ -42,9 +42,9 @@ I'm a passionate frontend developer who enjoys building modern, scalable, and us
 
 ## 📊 GitHub Stats
 
-![Adith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithmd\&show_icons=true\&theme=default)
+![Adith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithmd04\&show_icons=true\&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithmd\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithmd04\&layout=compact)
 
 ---
 
@@ -62,7 +62,7 @@ Contributing to production-level frontend applications, focusing on performance,
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://adithmd.linkedin.com
+* LinkedIn: www.linkedin.com/in/AdithMD04
 
 ---
 
