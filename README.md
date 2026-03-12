@@ -31,6 +31,7 @@ I enjoy **creating seamless user experiences** and continuously learning new tec
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Adithmd04&show_icons=true&theme=tokyonight&hide_progress=true&hide_border=true" height="170"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=i-chaeyeon&rank_icon=github" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithmd04&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -64,15 +65,11 @@ Tech Used: React, Next.js, TypeScript, Tailwind, REST APIs, GraphQl APIs
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="www.linkedin.com/in/adithmd04">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:adithdijikumar@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+[<img align="left" alt="gmail" width="48px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />][gmail]
+[<img align="left" alt="LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
+[gmail]: mailto:adithdijikumar@gmail.com
+[linkedin]: https://www.linkedin.com/in/adithmd04
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Modern+Web+Apps;Learning+Full-Stack+Development;Creating+Impactful+UI&center=true&width=500&height=50">
