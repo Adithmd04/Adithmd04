@@ -62,7 +62,7 @@ Contributing to production-level frontend applications, focusing on performance,
 
 ## 🌐 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/AdithMD04
+* LinkedIn: www.linkedin.com/in/adithmd04
 
 ---
 
