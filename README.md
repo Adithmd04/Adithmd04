@@ -1,7 +1,10 @@
 <!-- Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Adith+MD;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Adith+MD;
+    Frontend+Developer;
+    React+%7C+Next.js+%7C+TypeScript;
+    Building+Modern+Web+Experiences&center=true&width=600&height=50">
 </p>
 
 <h3 align="center">Frontend Engineer | React • Next.js • TypeScript</h3>
@@ -42,7 +45,7 @@ I enjoy **creating seamless user experiences** and continuously learning new tec
 ## 📌 Projects
 
 <details>
-<summary>**Personal Portfolio**</summary>
+<summary><b>Personal Portfolio</b></summary>
 
 Building a **modern, responsive developer portfolio** to showcase my skills, projects, and professional journey.
 
@@ -51,7 +54,7 @@ Tech Used: React, Next.js, Tailwind CSS, TypeScript
 </details>
 
 <details>
-<summary>**Company Projects**</summary>
+<summary><b>Company Projects</b></summary>
 
 Contributing to **production-level frontend applications**, focusing on performance, accessibility, and scalable UI architecture.
 
