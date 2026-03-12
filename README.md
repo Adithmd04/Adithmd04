@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Adith+MD;Building+Modern+Web+Experiences&center=true&width=600&height=50" />
 </p>
 
-<h3 align="center">Adith MD</h3>
-<h4 align="center">Frontend Engineer | React • Next.js • TypeScript</h4>
+<h3 align="center"><b>Adith MD</b></h3>
+<h4 align="center"><i>Frontend Engineer | React • Next.js • TypeScript</i></h4>
 
 ---
 
@@ -28,15 +28,14 @@ I enjoy **creating seamless user experiences** and continuously learning new tec
 ## 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adithmd04&rank_icon=github&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithmd04&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adithmd04&rank_icon=github&theme=tokyonight&hide_border=true" width="400" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithmd04&layout=compact&theme=tokyonight&hide_border=true" width="400" height="170" />
 </p>
 
-<!-- currently service down
-<p align="center">
+<!-- currently service down -->
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adithmd04&theme=tokyonight&row=1&column=5" />
-</p>
--->
+</p> -->
 
 ---
 
@@ -62,10 +61,10 @@ Contributing to **production-level frontend applications**, focusing on performa
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="left">
-  <a href="mailto:adithdijikumar@gmail.com" style="margin-right: 10px;">
+  <a href="mailto:adithdijikumar@gmail.com" style="margin-right: 15px;">
     <img alt="Gmail" width="48px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />
   </a>
   <a href="https://www.linkedin.com/in/adithmd04">
@@ -73,10 +72,6 @@ Contributing to **production-level frontend applications**, focusing on performa
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Modern+Web+Apps;Learning+Full-Stack+Development;Creating+Impactful+UI&center=true&width=500&height=50" />
-</p>
-
----
-
-<p align="center"><b>Adith MD</b></p>
+</p> -->
