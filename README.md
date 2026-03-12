@@ -1,7 +1,5 @@
-<!-- Animated Header -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Adith+MD;Building+Modern+Web+Experiences&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Adith+MD;Building+Modern+Web+Experiences&center=true&width=600&height=50" />
 </p>
 
 <h3 align="center">Adith MD</h3>
@@ -11,33 +9,34 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend Engineer** focused on building **scalable, high-performance, and user-centric web applications**.
-Specializing in **React, Next.js, TypeScript**, and responsive UI development.
+I'm a **Frontend Engineer** focused on building **scalable, high-performance, and user-centric web applications**.  
+Specializing in **React, Next.js, TypeScript**, **Tailwind** and responsive UI development.
 
-Currently working on **production-level frontend projects**, while learning **Node.js, MongoDB, and Docker** to grow into a full-stack developer.
+Currently working on **production-level frontend projects**, while learning **Node.js, MongoDB, and Docker** to grow into a full-stack developer.  
 I enjoy **creating seamless user experiences** and continuously learning new technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,nodejs,mongodb,git,docker,aws&perline=6" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,nodejs,mongodb,git,docker,aws&perline=6" />
 </p>
 
 ---
 
-## Stats
+## 📊 Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Adithmd04&show_icons=true&theme=tokyonight&hide_progress=true&hide_border=true" height="170"/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=i-chaeyeon&rank_icon=github" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithmd04&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adithmd04&rank_icon=github&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithmd04&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<!-- <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Adithmd04&theme=tokyonight&row=1&column=5" />
-</p> -->
+<!-- currently service down
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adithmd04&theme=tokyonight&row=1&column=5" />
+</p>
+-->
 
 ---
 
@@ -48,7 +47,7 @@ I enjoy **creating seamless user experiences** and continuously learning new tec
 
 Building a **modern, responsive developer portfolio** to showcase my skills, projects, and professional journey.
 
-Tech Used: React, Next.js, Tailwind CSS, TypeScript
+**Tech Used:** React, Next.js, Tailwind CSS, TypeScript
 
 </details>
 
@@ -57,7 +56,7 @@ Tech Used: React, Next.js, Tailwind CSS, TypeScript
 
 Contributing to **production-level frontend applications**, focusing on performance, accessibility, and scalable UI architecture.
 
-Tech Used: React, Next.js, TypeScript, Tailwind, REST APIs, GraphQl APIs
+**Tech Used:** React, Next.js, TypeScript, Tailwind, REST APIs, GraphQL APIs
 
 </details>
 
@@ -65,14 +64,17 @@ Tech Used: React, Next.js, TypeScript, Tailwind, REST APIs, GraphQl APIs
 
 ## 🌐 Connect With Me
 
-[<img align="left" alt="gmail" width="48px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />][gmail]
-[<img align="left" alt="LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+<p align="left">
+  <a href="mailto:adithdijikumar@gmail.com" style="margin-right: 10px;">
+    <img alt="Gmail" width="48px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />
+  </a>
+  <a href="https://www.linkedin.com/in/adithmd04">
+    <img alt="LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  </a>
+</p>
 
-[gmail]: mailto:adithdijikumar@gmail.com
-[linkedin]: https://www.linkedin.com/in/adithmd04
----
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Modern+Web+Apps;Learning+Full-Stack+Development;Creating+Impactful+UI&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Modern+Web+Apps;Learning+Full-Stack+Development;Creating+Impactful+UI&center=true&width=500&height=50" />
 </p>
 
 ---
