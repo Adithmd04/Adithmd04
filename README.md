@@ -30,13 +30,13 @@ I enjoy **creating seamless user experiences** and continuously learning new tec
 ## Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Adithmd04&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Adithmd04&show_icons=true&theme=tokyonight&hide_progress=true&hide_border=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithmd04&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Adithmd04&theme=tokyonight&row=1&column=5" />
-</p>
+</p> -->
 
 ---
 
