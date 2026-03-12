@@ -1,10 +1,11 @@
 <!-- Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Adith+MD;Frontend+DeveloperReact+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Adith+MD;Building+Modern+Web+Experiences&center=true&width=600&height=50">
 </p>
 
-<h3 align="center">Frontend Engineer | React • Next.js • TypeScript</h3>
+<h3 align="center">Adith MD</h3>
+<h4 align="center">Frontend Engineer | React • Next.js • TypeScript</h4>
 
 ---
 
