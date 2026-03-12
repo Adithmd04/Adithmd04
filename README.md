@@ -1,10 +1,7 @@
 <!-- Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Adith+MD;
-    Frontend+Developer;
-    React+%7C+Next.js+%7C+TypeScript;
-    Building+Modern+Web+Experiences&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Adith+MD;Frontend+DeveloperReact+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences&center=true&width=600&height=50">
 </p>
 
 <h3 align="center">Frontend Engineer | React • Next.js • TypeScript</h3>
@@ -80,13 +77,9 @@ Tech Used: React, Next.js, TypeScript, Tailwind, REST APIs, GraphQl APIs
 ## 🎯 Fun Animations
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Modern+Web+Apps;
-    Learning+Full-Stack+Development;
-    Creating+Impactful+UI&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Modern+Web+Apps;Learning+Full-Stack+Development;Creating+Impactful+UI&center=true&width=500&height=50">
 </p>
 
 ---
 
-<p align="center">
-From <b>Adith MD</b>
-</p>
+<p align="center"><b>Adith MD</b></p>
