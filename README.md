@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Adith+MD;Building+Modern+Web+Experiences&center=true&width=600&height=50" />
 </p>
 
-<h3 align="center"><b>Adith MD</b></h3>
 <h4 align="center"><i>Frontend Engineer | React • Next.js • TypeScript</i></h4>
 
 ---
