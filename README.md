@@ -27,7 +27,7 @@ I enjoy **creating seamless user experiences** and continuously learning new tec
 ## 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adithmd04&rank_icon=github&theme=tokyonight&hide_border=true" width="400" height="170" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Adithmd04&rank_icon=github&theme=tokyonight&hide_border=true" width="400" height="170" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithmd04&layout=compact&theme=tokyonight&hide_border=true" width="400" height="170" />
 </p>
 
