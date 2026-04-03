@@ -10,10 +10,6 @@
 
 I'm a **Frontend Engineer** focused on building **scalable, high-performance, and user-centric web applications**.  
 Specializing in **React, Next.js, TypeScript**, **Tailwind** and responsive UI development.
-
-Currently working on **production-level frontend projects**, while learning **Node.js, MongoDB, and Docker** to grow into a full-stack developer.  
-I enjoy **creating seamless user experiences** and continuously learning new technologies.
-
 ---
 
 ## 🛠️ Tech Stack
